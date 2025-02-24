@@ -1,0 +1,4 @@
+1. According to the book the Big O for this algorithm is O(nm), with n being the length of the text and m being the length of the pattern.
+2. Yes, my calculations of elapsedTime alligned with what the book said about the Big O for rhis brute-force string matching algoorithm.
+3. I believe the purpose of this exercise was to observe empirical execution times, understand best- and worst- case scenarios, reinforce Big O complexity concepts, and to apply systematic benchmarking.
+4. Yes, this is enough to calculate a best- and worst- case scenario.
